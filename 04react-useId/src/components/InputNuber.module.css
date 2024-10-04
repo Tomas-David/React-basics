@@ -1,0 +1,42 @@
+.wrapper{
+    display: flex;
+    gap: .5em;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputBtn{
+    color: pink;
+    background-color: black;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.rainbowRangeGreen {
+    accent-color: green;
+    border-radius: 2em;
+
+}
+
+.rainbowRangeBlue {
+    accent-color: blue;
+    border-radius: 2em;
+    
+}
+
+.rainbowRangeYelow {
+    accent-color: yellow;
+    border-radius: 2em;
+    
+}
+
+.rainbowRangeOrange {
+    accent-color: orange;
+    border-radius: 2em;
+    
+}
+.rainbowRangeRed {
+    accent-color: red;
+    border-radius: 2em;
+    
+}

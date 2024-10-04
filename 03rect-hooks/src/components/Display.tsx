@@ -1,5 +1,7 @@
 import React from "react";
 import classes from "./Display.module.css"
+
+
 type DisplayProps = {
     show: string
 }
